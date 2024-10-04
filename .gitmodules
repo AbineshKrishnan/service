@@ -1,0 +1,8 @@
+[submodule "appointment-entity"]
+	path = appointment-entity
+	url = https://sabareesv@bitbucket.org/techxlnsemr/appointment-entity.git
+	branch = develop
+[submodule "appointment-utils"]
+	path = appointment-utils
+	url = https://sabareesv@bitbucket.org/techxlnsemr/appointment-utils.git
+	branch = develop
