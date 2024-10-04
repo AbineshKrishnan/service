@@ -6,3 +6,11 @@
 	path = appointment-utils
 	url = https://sabareesv@bitbucket.org/techxlnsemr/appointment-utils.git
 	branch = develop
+[submodule "entity"]
+	path = entity
+	url = git@github.com:AbineshKrishnan/entity.git
+	branch = main
+[submodule "utils"]
+	path = utils
+	url = git@github.com:AbineshKrishnan/utils.git
+	branch = main
