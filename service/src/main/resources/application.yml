@@ -4,6 +4,8 @@ server:
 spring:
   application:
     name: base-service
+  r2dbc:
+    url: r2dbc:postgresql://postgres:admin@localhost:5432/tenant_1
   messages:
     basename: message
     fallback-to-system-locale: true
