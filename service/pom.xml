@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.appointment.service</groupId>
-    <artifactId>service</artifactId>
+    <groupId>com.tenant.service</groupId>
+    <artifactId>tenant-service</artifactId>
     <version>0.0.1</version>
 
     <properties>
